@@ -21,6 +21,4 @@ Here are some ideas to get you started:
 <h3 align="center"> 백준 티어 </h2>
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rue)](https://solved.ac/rue)
-<h3 align="center"> 기술 블로그 </h2>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=byeolhaha)](https://velog.io/@byeolhaha)
