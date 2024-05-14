@@ -14,11 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3 align="center"> 🛠 주요 Tech Stack 🛠 </h3>
+<h3 align="center"> 📫 GitHub Stats 📫 </h3>
 
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=byeolhaha&show_icons=true&theme=dracula)
 
-<h3 align="center"> 백준 티어 </h2>
+<h3 align="center"> 🔖 Most Used Languages 🔖 </h3>
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rue)](https://solved.ac/rue)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byeolhaha&layout=compact&theme=dracula)
+
+<h3 align="center"> My Post </h2>
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=byeolhaha)](https://github.com/eungyeole/velog-readme-stats)
 
