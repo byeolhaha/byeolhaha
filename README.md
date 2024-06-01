@@ -24,5 +24,4 @@ Here are some ideas to get you started:
 
 <h3 align="center"> My Post </h2>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=byeolhaha)](https://github.com/eungyeole/velog-readme-stats)
-
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=byeolhaha)](https://velog.io/@byeolhaha) 
