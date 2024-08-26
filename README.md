@@ -21,7 +21,3 @@ Here are some ideas to get you started:
 <h3 align="center"> 🔖 Most Used Languages 🔖 </h3>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byeolhaha&layout=compact&theme=dracula)
-
-<h3 align="center"> My Post </h2>
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=byeolhaha)](https://velog.io/@byeolhaha) 
